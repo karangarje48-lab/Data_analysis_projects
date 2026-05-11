@@ -9,27 +9,6 @@
 │   ├── customer-churn-analysis/
 │   ├── car-price-prediction/
 │   ├── indian-election-analysis/
-│   ├── hr-analytics/
-│   ├── product-recommendation/
-│   ├── credit-card-approvals/
-│   ├── uber-trips-analysis/
-│   ├── active-product-sales/
-│   └── google-search-analysis/
-├── time-series-projects/
-│   ├── stock-price-analysis/
-│   ├── weather-data-analysis/
-│   ├── cryptocurrency-time-series/
-│   ├── climate-change-analysis/
-│   ├── anomaly-detection/
-│   ├── sales-demand-forecasting/
-│   ├── air-quality-analysis/
-│   ├── gold-price-forecasting/
-│   └── food-price-forecasting/
-├── web-scraping-projects/
-│   ├── movies-review-scraping/
-│   ├── product-price-scraping/
-│   ├── news-scraping/
-│   └── realtime-share-price-scraping/
 └── requirements.txt
 
 # Clone the repository
